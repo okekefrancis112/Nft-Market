@@ -1,7 +1,7 @@
 {
   "name": "sigleton",
   "version": "1.0.0",
-  "description": "This are the sigle smart contract for the UNICORN project",
+  "description": "This are the single smart contract for the UNICORN project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,6 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
     "@openzeppelin/contracts": "^4.7.3",
-    "hardhat": "^2.11.2"
+    "hardhat": "^2.12.0"
   }
 }
